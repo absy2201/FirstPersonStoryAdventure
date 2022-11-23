@@ -21,10 +21,9 @@
 	"TargetPlatforms": [
 		"AllDesktop",
 		"HTML5",
-		"IOS",
 		"LinuxNoEditor",
 		"MacNoEditor",
-		"TVOS",
-		"WindowsNoEditor"
+		"WindowsNoEditor",
+		"Windows"
 	]
 }
